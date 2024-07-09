@@ -1,2 +1,2 @@
 # earth_online-dp
-personal learning steps
+preface: personal learning steps, slow is fast
